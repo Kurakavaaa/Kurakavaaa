@@ -25,3 +25,14 @@ www.ipchicken.com:2087#Shatel.wifi
 172.67.110.232:2087#Shatel.wifi
 dylan.ns.cloudflare.com:2087#Shatel.wifi
 ip.sb:2087#Shatel.wifi
+104.18.157.139:2096#Ip Clean
+104.18.159.210:2096#Ip Clean
+104.18.157.139:2096#Ip Clean
+104.18.157.139:2053#Ip Clean
+104.18.159.210:2053#Ip Clean
+104.18.157.139:2053#Ip Clean
+104.18.157.139:8443#Ip Clean
+104.18.159.210:8443#Ip Clean
+104.18.157.139:8443#Ip Clean
+2606:4700:3029:96bf:ab2c:2591:169e:426b:443#Ipv6
+2606:4700:3028:5e12:c4b2:a12d:5cd7:3a5c:443#Ipv6
