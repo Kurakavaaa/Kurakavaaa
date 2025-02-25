@@ -1,39 +1,18 @@
-172.67.181.209
-172.67.120.0
-www.ipchicken.com
-172.67.110.232
-dylan.ns.cloudflare.com
-ip.sb
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#IPV6
-[2606:4700:9b08:7ce1:8882:ba8c:2880:c619]:443#IPV6
-[2606:4700:9b08:dd59:154f:abf8:46b5:25bb]:443#IPV6
-[2606:4700:3029:96bf:ab2c:2591:169e:426b]:443#Ipv6
-[2606:4700:3028:5e12:c4b2:a12d:5cd7:3a5c]:443#Ipv6
-172.67.181.209:2053#Shatel.wifi
-172.67.120.0:2053#Shatel.wifi
-www.ipchicken.com:2053#Shatel.wifi
-172.67.110.232:2053#Shatel.wifi
-dylan.ns.cloudflare.com:2053#Shatel.wifi
-ip.sb:2053#Shatel.wifi
-172.67.181.209:8443#Shatel.wifi
-172.67.120.0:8443#Shatel.wifi
-www.ipchicken.com:8443#Shatel.wifi
-172.67.110.232:8443#Shatel.wifi
-dylan.ns.cloudflare.com:8443#Shatel.wifi
-ip.sb:8443#Shatel.wifi
-172.67.181.209:2087#Shatel.wifi
-172.67.120.0:2087#Shatel.wifi
-www.ipchicken.com:2087#Shatel.wifi
-172.67.110.232:2087#Shatel.wifi
-dylan.ns.cloudflare.com:2087#Shatel.wifi
-ip.sb:2087#Shatel.wifi
-104.18.157.139:2096#Ip Clean
-104.18.159.210:2096#Ip Clean
-104.18.157.139:2096#Ip Clean
-104.18.157.139:2053#Ip Clean
-104.18.159.210:2053#Ip Clean
-104.18.157.139:2053#Ip Clean
-104.18.157.139:8443#Ip Clean
-104.18.159.210:8443#Ip Clean
-104.18.157.139:8443#Ip Clean
-
+104.20.146.16:8443#Ip Clean
+104.16.204.32:8443#Ip Clean
+104.19.24.58:8443#Ip Clean
+104.24.30.22:8443#Ip Clean
+188.42.89.120:8443#Ip Clean
+162.158.180.202:8443#Ip Clean
+104.20.146.16:2087#Mci
+104.16.204.32:2087#Mci
+104.19.24.58:2087#Mci
+104.24.30.22:2087#Mci
+188.42.89.120:2087#Mci
+162.158.180.202:2087#Mci
+104.20.146.16:2096#Ip Clean
+104.16.204.32:2096#Ip Clean
+104.19.24.58:2096#Ip Clean
+104.24.30.22:2096#Ip Clean
+188.42.89.120:2096#Ip Clean
+162.158.180.202:2096#Ip Clean
