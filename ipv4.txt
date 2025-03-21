@@ -1,18 +1,24 @@
-104.20.146.16:8443#Ip Clean
-104.16.204.32:8443#Ip Clean
-104.19.24.58:8443#Ip Clean
-104.24.30.22:8443#Ip Clean
-188.42.89.120:8443#Ip Clean
-162.158.180.202:8443#Ip Clean
-104.20.146.16:2087#Mci
-104.16.204.32:2087#Mci
-104.19.24.58:2087#Mci
-104.24.30.22:2087#Mci
-188.42.89.120:2087#Mci
-162.158.180.202:2087#Mci
-104.20.146.16:2096#Ip Clean
-104.16.204.32:2096#Ip Clean
-104.19.24.58:2096#Ip Clean
-104.24.30.22:2096#Ip Clean
-188.42.89.120:2096#Ip Clean
-162.158.180.202:2096#Ip Clean
+172.64.40.188:8443#Wifi All Internt
+162.158.180.207:8443#Wifi All Internt
+104.24.60.11:8443#Wifi All Internt
+172.64.41.91:8443#Wifi All Internt
+104.24.37.125:8443#Wifi All Internt
+104.24.37.85:8443#Wifi All Internt
+172.64.40.188:2096#Wifi All Internt
+162.158.180.207:2096#Wifi All Internt
+104.24.60.11:2096#Wifi All Internt
+172.64.41.91:2096#Wifi All Internt
+104.24.37.125:2096#Wifi All Internt
+104.24.37.85:2096#Wifi All Internt
+172.64.40.188:2083#Wifi All Internt
+162.158.180.207:2083#Wifi All Internt
+104.24.60.11:2083#Wifi All Internt
+172.64.41.91:2083#Wifi All Internt
+104.24.37.125:2083#Wifi All Internt
+104.24.37.85:2083#Wifi All Internt
+172.64.40.188:2053#Wifi All Internt
+162.158.180.207:2053#Wifi All Internt
+104.24.60.11:2053#Wifi All Internt
+172.64.41.91:2053#Wifi All Internt
+104.24.37.125:2053#Wifi All Internt
+104.24.37.85:2053#Wifi All Internt
